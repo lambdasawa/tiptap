@@ -1,5 +1,23 @@
 # Change Log
 
+## 3.0.0-pre.0
+
+### Minor Changes
+
+- 1577ec0: Added support for React 19 ref in props
+
+### Patch Changes
+
+- a8a0980: Fixed a bug that incorrectly added ref props when a component can't accept them (for example when React 19 is not used)
+- 2f032b1: Fixes an issue where ref props will be kept on non-supported react components
+- Updated dependencies [f878879]
+- Updated dependencies [5de17c5]
+- Updated dependencies [d88244d]
+  - @tiptap/core@3.0.0-pre.0
+  - @tiptap/extension-bubble-menu@3.0.0-pre.0
+  - @tiptap/extension-floating-menu@3.0.0-pre.0
+  - @tiptap/pm@3.0.0-pre.0
+
 ## 2.14.0
 
 ### Patch Changes
