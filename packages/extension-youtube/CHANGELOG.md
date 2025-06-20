@@ -1,5 +1,12 @@
 # Change Log
 
+## 3.0.0-beta.11
+
+### Patch Changes
+
+- 27f9c63: Updates the regex patterns for YouTube URL validation to ensure proper matching.
+  - @tiptap/core@3.0.0-beta.11
+
 ## 3.0.0-beta.10
 
 ### Patch Changes
